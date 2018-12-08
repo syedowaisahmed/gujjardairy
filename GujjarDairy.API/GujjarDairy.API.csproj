@@ -165,12 +165,18 @@
   <ItemGroup>
     <Compile Include="Controllers\AccountsController.cs" />
     <Compile Include="Controllers\BaseApiController.cs" />
+    <Compile Include="Controllers\ClaimsController.cs" />
+    <Compile Include="Controllers\RolesController.cs" />
+    <Compile Include="Infrastructure\AdditionalClaimsManager.cs" />
+    <Compile Include="Infrastructure\AdditionalRolesFromClaims.cs" />
     <Compile Include="Infrastructure\ApplicationDbContext.cs" />
+    <Compile Include="Infrastructure\ApplicationRoleManager.cs" />
     <Compile Include="Infrastructure\ApplicationUser.cs" />
     <Compile Include="Infrastructure\ApplicationUserManager.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModel.cs" />
     <Compile Include="Models\ModelFactory.cs" />
+    <Compile Include="Models\RoleBindingModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Providers\CustomJwtFormat.cs" />
     <Compile Include="Providers\CustomOAuthProvider.cs" />

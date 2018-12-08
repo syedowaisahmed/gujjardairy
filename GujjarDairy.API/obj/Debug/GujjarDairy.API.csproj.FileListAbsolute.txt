@@ -49,10 +49,10 @@ D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\bin\System.Web.Http.x
 D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\bin\System.Web.Http.Owin.xml
 D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\obj\Debug\GujjarDairy.API.dll
 D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\obj\Debug\GujjarDairy.API.pdb
-D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\obj\Debug\GujjarDairy.API.csprojResolveAssemblyReference.cache
 D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\bin\System.IdentityModel.Tokens.Jwt.dll
 D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\bin\Thinktecture.IdentityModel.Core.dll
 D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\bin\System.IdentityModel.Tokens.Jwt.xml
 D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\bin\Thinktecture.IdentityModel.Core.pdb
 D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\bin\Microsoft.Owin.Security.Jwt.dll
 D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Final Year Project Research\GujjarDairy\GujjarDairy.API\obj\Debug\GujjarDairy.API.csprojResolveAssemblyReference.cache

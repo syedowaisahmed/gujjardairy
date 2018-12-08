@@ -16,7 +16,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/25/2014 01:34:42</publishTime>
     </File>
     <File Include="bin/GujjarDairy.API.dll">
-      <publishTime>11/28/2018 21:24:46</publishTime>
+      <publishTime>12/08/2018 21:12:28</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
       <publishTime>06/12/2014 10:28:08</publishTime>

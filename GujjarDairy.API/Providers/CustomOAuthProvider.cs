@@ -45,6 +45,9 @@ namespace GujjarDairy.API.Providers
 
             ClaimsIdentity oAuthIdentity = await user.GenerateUserIdentityAsync(userManager, "JWT");
 
+            oAuthIdentity.AddClaims(AdditionalClaimsManager.GetClaims(user));
+            oAuthIdentity.AddClaims(AdditionalRolesFromClaims.CreateRolesBasedOnClaims(oAuthIdentity));
+
             var ticket = new AuthenticationTicket(oAuthIdentity, null);
 
             context.Validated(ticket);
