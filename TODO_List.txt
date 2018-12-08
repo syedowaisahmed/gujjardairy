@@ -1,0 +1,9 @@
+- Fix ConfirmEmail endpoint in AccountsController.
+- Move the App Settings out into new secureKeys.config and call that from AppSettings.
+- Add .gitignore file and exclude secure/unnecessary files.
+- Add Logout endpoint in AccountsController.
+- Add AudienceId feature. Extract it from HTTP Header.
+- Create Audience SQL Table and generate a dummy audience for testing.
+- When Audience work is finished, remove hardcoded audienceId from web.config.
+- Add Business Workflow endpoints.
+- Add Payment work-flow using Adapter pattern.
