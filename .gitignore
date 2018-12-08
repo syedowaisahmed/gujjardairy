@@ -3,6 +3,7 @@
 
 # Configuration Files
 SecureKeys.config
+Web.config
 
 # User-specific files
 *.suo
