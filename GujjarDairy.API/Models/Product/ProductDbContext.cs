@@ -9,9 +9,9 @@ namespace GujjarDairy.API.Models.Product
 {
     public class ProductDbContext: IdentityDbContext
     {
-        public DbSet<ProductCategoryBindingModel> Products { get; set; }
+        public DbSet<ProductBindingModel> Products { get; set; }
         public DbSet<ProductCategoryBindingModel> ProductCategories { get; set; }
-        public DbSet<ProductCategoryBindingModel> ProductItems { get; set; }
-        public DbSet<ProductCategoryBindingModel> WebsiteProducts { get; set; }
+        public DbSet<ProductItemBindingModel> ProductItems { get; set; }
+        public DbSet<WebsiteProductBindingModel> WebsiteProducts { get; set; }
     }
 }

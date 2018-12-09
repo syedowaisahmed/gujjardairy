@@ -175,6 +175,7 @@
     <Compile Include="Controllers\AccountsController.cs" />
     <Compile Include="Controllers\BaseApiController.cs" />
     <Compile Include="Controllers\ClaimsController.cs" />
+    <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Controllers\RolesController.cs" />
     <Compile Include="Infrastructure\AdditionalClaimsManager.cs" />
     <Compile Include="Infrastructure\AdditionalRolesFromClaims.cs" />
